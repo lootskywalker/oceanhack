@@ -114,3 +114,4 @@ def update_heatmap(selected_csv, selected_parameter):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
+
